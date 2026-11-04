@@ -1,4 +1,4 @@
 <?php
-$user = "feyyaz";
-$pass = "payas31";
+$user = "admin";
+$pass = "türkiye";
 ?>
